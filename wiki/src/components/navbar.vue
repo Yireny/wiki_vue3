@@ -1,6 +1,9 @@
 <template>
-<header class="header">
-  <span class="icon"></span>
+<header class="navbar">
+  <span class="logo">
+    <img class="logo__img" src="../assets/images/logo.png" alt="">
+    <span class="logo__title">Arknights·明日方舟</span>
+  </span>
   <nav class="nav">
     <span
     class="nav__item"
@@ -12,7 +15,6 @@
     {{item.name}}
     </span>
   </nav>
-  <span class="avatar"></span>
 </header>
 </template>
 
@@ -39,16 +41,39 @@ function navClick(index:number):void{
 </script>
 
 <style lang="scss" scoped>
-.header{
+.navbar{
   width: 1000px;
   height: 60px;
   line-height: 60px;
   padding: 0 calc((100% - 1000px)/2);
   background-color: #00c3ff;
+  color: #fff;
   user-select: none;
-  .icon{
+  .logo{
     display: inline-block;
-    width: 200px;
+    width: 270px;
+    height: 100%;
+    &__img{
+      width: 76px;
+      vertical-align: middle;
+    }
+    &__title{
+      position: relative;
+      width: 180px;
+      margin-left: 10px;
+      padding-left: 10px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      &::before{
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 15px;
+        border-left: 1px solid rgba(255, 255, 255, .3);
+        content: '';
+    }
+    }
   }
   .nav{
     display: inline-flex;
@@ -56,7 +81,6 @@ function navClick(index:number):void{
     &__item{
       flex: 1;
       font-weight: bold;
-      color: #fff;
       text-align: center;
       cursor: pointer;
       &:hover{
@@ -67,6 +91,5 @@ function navClick(index:number):void{
       }
     }
   }
-
 }
 </style>
