@@ -5,7 +5,8 @@
     <span class="logo__title">Arknights·明日方舟</span>
   </span>
   <nav class="nav">
-    <span
+    <router-link
+    to="/home"
     class="nav__item"
     :class="{'nav__item--active':isActive === item.id}"
     v-for="item in nav"
@@ -13,7 +14,7 @@
     @click="navClick(item.id)"
     >
     {{item.name}}
-    </span>
+    </router-link>
   </nav>
 </header>
 </template>
@@ -22,17 +23,17 @@
 import { ref,reactive } from 'vue'
 
 interface Nav{
+  id:number,
   name:String,
-  id:number
+  path:String
 }
 let nav:Nav[]
-let isActive = ref(1)
+let isActive = ref<number>(1)
 
-
-nav = reactive([{name:'首页',id:1},
-                {name:'百科',id:2},
-                {name:'攻略',id:3},
-                {name:'社区',id:4}])
+nav = reactive([{name:'首页',id:1,path:'/home'},
+                {name:'百科',id:2,path:''},
+                {name:'攻略',id:3,path:''},
+                {name:'社区',id:4,path:''}])
 
 function navClick(index:number):void{
   isActive.value = index
