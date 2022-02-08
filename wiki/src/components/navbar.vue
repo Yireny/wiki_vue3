@@ -5,22 +5,22 @@
     <span class="logo__title">Arknights·明日方舟</span>
   </span>
   <nav class="nav">
-    <router-link
-    to="/home"
+    <span
     class="nav__item"
     :class="{'nav__item--active':isActive === item.id}"
     v-for="item in nav"
     :key="item.id"
-    @click="navClick(item.id)"
+    @click="navClick(item.id,item.path)"
     >
     {{item.name}}
-    </router-link>
+    </span>
   </nav>
 </header>
 </template>
 
 <script setup lang='ts'>
 import { ref,reactive } from 'vue'
+import { useRouter } from 'vue-router'
 
 interface Nav{
   id:number,
@@ -29,20 +29,24 @@ interface Nav{
 }
 let nav:Nav[]
 let isActive = ref<number>(1)
+const router = useRouter()
 
 nav = reactive([{name:'首页',id:1,path:'/home'},
-                {name:'百科',id:2,path:''},
-                {name:'攻略',id:3,path:''},
-                {name:'社区',id:4,path:''}])
+                {name:'百科',id:2,path:'/wiki'},
+                {name:'攻略',id:3,path:'/strategy'},
+                {name:'社区',id:4,path:'/community'}])
 
-function navClick(index:number):void{
+function navClick(index:number,path:string):void{
   isActive.value = index
+  router.push(path)
 }
 
 </script>
 
 <style lang="scss" scoped>
 .navbar{
+  position: sticky;
+  top: 0;
   width: 1000px;
   height: 60px;
   line-height: 60px;
@@ -73,7 +77,7 @@ function navClick(index:number):void{
         height: 15px;
         border-left: 1px solid rgba(255, 255, 255, .3);
         content: '';
-    }
+      }
     }
   }
   .nav{
