@@ -1,16 +1,16 @@
 <template>
-  <div class="app">
+  <header>
     <Navbar/>
-    <main>
-      <router-view v-slot="{ Component }">
-        <transition name="fade" mode="out-in">
-          <keep-alive>
-            <component :is="Component" />
-          </keep-alive>
-        </transition>
-      </router-view>
-    </main>
-  </div>
+  </header>
+  <!--  -->
+  <router-view v-slot="{ Component }">
+    <transition name="fade" mode="out-in">
+      <keep-alive>
+        <component :is="Component" />
+      </keep-alive>
+    </transition>
+  </router-view>
+  <!--  -->
 </template>
 
 <script setup lang="ts">
@@ -19,7 +19,7 @@ import Navbar from './components/navbar.vue'
 </script>
 
 <style>
-.app{
+#app{
   position: relative;
   width: 100%;
   min-width: 1200px;

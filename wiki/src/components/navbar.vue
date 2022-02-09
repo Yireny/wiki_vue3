@@ -1,11 +1,11 @@
 <template>
-<header class="navbar">
+<nav class="navbar">
   <span class="logo">
     <img class="logo__img" src="../assets/images/logo.png" alt="">
     <span class="logo__title">Arknights·明日方舟</span>
   </span>
-  <nav class="nav">
-    <span
+  <ul class="nav">
+    <li
     class="nav__item"
     :class="{'nav__item--active':isActive === item.id}"
     v-for="item in nav"
@@ -13,9 +13,9 @@
     @click="navClick(item.id,item.path)"
     >
     {{item.name}}
-    </span>
-  </nav>
-</header>
+    </li>
+  </ul>
+</nav>
 </template>
 
 <script setup lang='ts'>
@@ -83,11 +83,14 @@ function navClick(index:number,path:string):void{
   .nav{
     display: inline-flex;
     width: 300px;
+    margin: 0;
+    padding: 0;
     &__item{
       flex: 1;
       font-weight: bold;
       text-align: center;
       cursor: pointer;
+      list-style: none;
       &:hover{
         background-color: rgba(255, 255, 255, .16);
       }

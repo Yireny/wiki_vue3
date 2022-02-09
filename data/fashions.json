@@ -1,0 +1,511 @@
+[{
+  "_id": {
+    "$oid": "61c71eb06548cb984b16babd"
+  },
+  "description": "寒武纪™1096冬季新款/十字郡。特别手工细节填充，使用防水材质，含袖口部特殊设计、可拆卸部件与拉链口袋",
+  "id": "1",
+  "name": "十字郡",
+  "painting": "https://prts.wiki/images/thumb/d/de/%E7%AB%8B%E7%BB%98_%E8%8A%AC_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E8%8A%AC_skin1.png",
+  "sprite": "https://prts.wiki/images/9/98/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E8%8A%AC_skin1.png",
+  "role": "芬"
+},{
+  "_id": {
+    "$oid": "61c806ee2f404084b2eb7f03"
+  },
+  "description": "寒武纪™1096冬季新款/寒冬信使。特别手工细节填充，舒适贴身。完美融入日常装束，持久耐穿。高效天然保暖，防风雨透气材料提供全面防护。",
+  "id": "2",
+  "name": "寒冬信使",
+  "painting": "https://prts.wiki/images/thumb/1/1f/%E7%AB%8B%E7%BB%98_%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF_skin1.png",
+  "sprite": "https://prts.wiki/images/8/81/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF_skin1.png",
+  "role": "德克萨斯"
+},{
+  "_id": {
+    "$oid": "61c8075d2f404084b2eb7f04"
+  },
+  "description": "寒武纪™1096冬季新款/暗流。特别手工细节填充，舒适贴身。完美融入日常装束，持久耐穿。材质轻量耐磨。多层设计高效保暖。",
+  "id": "3",
+  "name": "暗流",
+  "painting": "https://prts.wiki/images/thumb/0/08/%E7%AB%8B%E7%BB%98_%E5%B9%BD%E7%81%B5%E9%B2%A8_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%B9%BD%E7%81%B5%E9%B2%A8_skin1.png",
+  "sprite": "https://prts.wiki/images/9/91/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%B9%BD%E7%81%B5%E9%B2%A8_skin1.png",
+  "role": "幽灵鲨"
+},{
+  "_id": {
+    "$oid": "61c807602f404084b2eb7f05"
+  },
+  "description": "寒武纪™1096冬季新款/新航线。轻盈简约为攀岩与登山而设计，使用耐磨和防水材质，保暖性能优越，为所有冒险家提供细心呵护",
+  "id": "4",
+  "name": "新航线",
+  "painting": "https://prts.wiki/images/thumb/3/39/%E7%AB%8B%E7%BB%98_%E8%AE%AF%E4%BD%BF_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E8%AE%AF%E4%BD%BF_skin1.png",
+  "sprite": "https://prts.wiki/images/2/25/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E8%AE%AF%E4%BD%BF_skin1.png",
+  "role": "讯使"
+},{
+  "_id": {
+    "$oid": "61c807632f404084b2eb7f06"
+  },
+  "description": "忒斯特™收藏系列/报童。限定区域供应。经典款式复刻，采用绝佳材质，附加特别缝纫细节。附带特别设计的开信刀",
+  "id": "5",
+  "name": "报童",
+  "painting": "https://prts.wiki/images/thumb/0/0c/%E7%AB%8B%E7%BB%98_%E9%98%BF%E7%B1%B3%E5%A8%85_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E9%98%BF%E7%B1%B3%E5%A8%85_skin1.png",
+  "sprite": "https://prts.wiki/images/e/ee/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E9%98%BF%E7%B1%B3%E5%A8%85_skin1.png",
+  "role": "阿米娅"
+},{
+  "_id": {
+    "$oid": "61c807652f404084b2eb7f07"
+  },
+  "description": "0011™新款/守岁人。龙门手工匠制，全手工制作。高效保暖，轻盈舒适。各种可拆卸设计可以灵活应对换季的气候变化。",
+  "id": "6",
+  "name": "守岁人",
+  "painting": "https://prts.wiki/images/thumb/9/9f/%E7%AB%8B%E7%BB%98_%E8%8A%99%E8%93%89_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E8%8A%99%E8%93%89_skin1.png",
+  "sprite": "https://prts.wiki/images/c/c8/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E8%8A%99%E8%93%89_skin1.png",
+  "role": "芙蓉"
+},{
+  "_id": {
+    "$oid": "61c807682f404084b2eb7f08"
+  },
+  "description": "生命之地™\n[识荒者/Rewilder]系列经典款/野地秘行。防风，防尘，防割裂，保暖。",
+  "id": "7",
+  "name": "野地秘行",
+  "painting": "https://prts.wiki/images/thumb/1/13/%E7%AB%8B%E7%BB%98_%E8%83%BD%E5%A4%A9%E4%BD%BF_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E8%83%BD%E5%A4%A9%E4%BD%BF_skin1.png",
+  "sprite": "https://prts.wiki/images/6/61/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E8%83%BD%E5%A4%A9%E4%BD%BF_skin1.png",
+  "role": "能天使"
+},{
+  "_id": {
+    "$oid": "61c8076a2f404084b2eb7f09"
+  },
+  "description": "生命之地™\n[识荒者/Rewilder]系列经典款/孤攀客。防风，防寒，保暖，耐磨。",
+  "id": "8",
+  "name": "孤攀客",
+  "painting": "https://prts.wiki/images/thumb/0/0d/%E7%AB%8B%E7%BB%98_%E5%B4%96%E5%BF%83_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%B4%96%E5%BF%83_skin1.png",
+  "sprite": "https://prts.wiki/images/e/eb/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%B4%96%E5%BF%83_skin1.png",
+  "role": "崖心"
+},{
+  "_id": {
+    "$oid": "61c8076c2f404084b2eb7f0a"
+  },
+  "description": "生命之地™\n[识荒者/Rewilder]系列经典款/四边形。防水，防污，轻便。",
+  "id": "9",
+  "name": "四边形",
+  "painting": "https://prts.wiki/images/thumb/0/08/%E7%AB%8B%E7%BB%98_%E8%9B%87%E5%B1%A0%E7%AE%B1_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E8%9B%87%E5%B1%A0%E7%AE%B1_skin1.png",
+  "sprite": "https://prts.wiki/images/7/76/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E8%9B%87%E5%B1%A0%E7%AE%B1_skin1.png",
+  "role": "蛇屠箱"
+},{
+  "_id": {
+    "$oid": "61c8076d2f404084b2eb7f0b"
+  },
+  "description": "忒斯特™收藏系列/植物种志。限定区域供应。经典款式复刻，采用绝佳材质，附加特别缝纫细节。附特别设计的多用工具袋。",
+  "id": "10",
+  "name": "植物种志",
+  "painting": "https://prts.wiki/images/thumb/a/a3/%E7%AB%8B%E7%BB%98_%E8%B0%83%E9%A6%99%E5%B8%88_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E8%B0%83%E9%A6%99%E5%B8%88_skin1.png",
+  "sprite": "https://prts.wiki/images/e/e2/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E8%B0%83%E9%A6%99%E5%B8%88_skin1.png",
+  "role": "调香师"
+},{
+  "_id": {
+    "$oid": "61c8076f2f404084b2eb7f0c"
+  },
+  "description": "生命之地™\n[识荒者/Rewilder]系列经典款/辛味。防污，耐磨，轻便。",
+  "id": "11",
+  "name": "辛味",
+  "painting": "https://prts.wiki/images/thumb/c/ca/%E7%AB%8B%E7%BB%98_%E6%9C%AB%E8%8D%AF_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E6%9C%AB%E8%8D%AF_skin1.png",
+  "sprite": "https://prts.wiki/images/8/8b/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E6%9C%AB%E8%8D%AF_skin1.png",
+  "role": "末药"
+},{
+  "_id": {
+    "$oid": "61c80a392f404084b2eb7f0d"
+  },
+  "description": "MARTHE [珊瑚海岸/CoralCoast]静谧午夜系列泳衣02款。材质轻便透气，舒适耐磨。采用尖端设计，神秘典雅，高贵。",
+  "id": "12",
+  "name": "静谧午夜 DN02",
+  "painting": "https://prts.wiki/images/thumb/5/50/%E7%AB%8B%E7%BB%98_%E9%97%AA%E7%81%B5_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E9%97%AA%E7%81%B5_skin1.png",
+  "sprite": "https://prts.wiki/images/0/00/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E9%97%AA%E7%81%B5_skin1.png",
+  "role": "闪灵"
+},{
+  "_id": {
+    "$oid": "61c80a722f404084b2eb7f0e"
+  },
+  "description": "MARTHE [珊瑚海岸/CoralCoast]温差系列泳衣RX01款。附带各种实用部件，舒适便捷，采用特殊材质耐火耐寒，适合于各种环境的水域。",
+  "id": "13",
+  "name": "温差 RT.RX01",
+  "painting": "https://prts.wiki/images/thumb/7/75/%E7%AB%8B%E7%BB%98_%E5%A4%A9%E7%81%AB_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%A4%A9%E7%81%AB_skin1.png",
+  "sprite": "https://prts.wiki/images/a/ae/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%A4%A9%E7%81%AB_skin1.png",
+  "role": "天火"
+},{
+  "_id": {
+    "$oid": "61c80acb2f404084b2eb7f0f"
+  },
+  "description": "MARTHE [珊瑚海岸/CoralCoast]悠然假日系列泳衣01款。舒适放松，透气轻盈。让您可以在闲适的环境中享受最完美的沙滩体验。",
+  "id": "14",
+  "name": "悠然假日 HD01",
+  "painting": "https://prts.wiki/images/thumb/d/df/%E7%AB%8B%E7%BB%98_%E7%BA%A2%E8%B1%86_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E7%BA%A2%E8%B1%86_skin1.png",
+  "sprite": "https://prts.wiki/images/c/c8/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E7%BA%A2%E8%B1%86_skin1.png",
+  "role": "红豆"
+},{
+  "_id": {
+    "$oid": "61c80acd2f404084b2eb7f10"
+  },
+  "description": "MARTHE [珊瑚海岸/CoralCoast]悠然假日系列泳衣06男款。舒适放松，透气轻盈。让您可以在闲适的环境中享受最完美的沙滩体验。男款大受好评发售中",
+  "id": "15",
+  "name": "悠然假日 HDm06",
+  "painting": "https://prts.wiki/images/thumb/8/8a/%E7%AB%8B%E7%BB%98_%E5%AE%89%E8%B5%9B%E5%B0%94_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%AE%89%E8%B5%9B%E5%B0%94_skin1.png",
+  "sprite": "https://prts.wiki/images/3/35/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%AE%89%E8%B5%9B%E5%B0%94_skin1.png",
+  "role": "安赛尔"
+},{
+  "_id": {
+    "$oid": "61c80acf2f404084b2eb7f11"
+  },
+  "description": "MARTHE [珊瑚海岸/CoralCoast]沙滩护卫系列泳衣首发001款。采用耐磨材质，宽松舒适而又贴身透气。贴合人体，确保观赏性同时便于各种户外运动。",
+  "id": "16",
+  "name": "沙滩护卫 GT.001",
+  "painting": "https://prts.wiki/images/thumb/c/cb/%E7%AB%8B%E7%BB%98_%E8%A7%92%E5%B3%B0_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E8%A7%92%E5%B3%B0_skin1.png",
+  "sprite": "https://prts.wiki/images/f/fd/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E8%A7%92%E5%B3%B0_skin1.png",
+  "role": "角峰"
+},{
+  "_id": {
+    "$oid": "61c80ad12f404084b2eb7f12"
+  },
+  "description": "MARTHE [珊瑚海岸/CoralCoast]雷神工业联动SUMMER特别涂装款。采用夏季耐热涂料，配备最新的沙滩轮胎以及强化引擎，海滩行动特化",
+  "id": "17",
+  "name": "SUM019.ver",
+  "painting": "https://prts.wiki/images/thumb/e/e4/%E7%AB%8B%E7%BB%98_Castle-3_skin1.png/400px-%E7%AB%8B%E7%BB%98_Castle-3_skin1.png",
+  "sprite": "https://prts.wiki/images/c/c0/%E5%8D%8A%E8%BA%AB%E5%83%8F_Castle-3_skin1.png",
+  "role": "Castle-3"
+},{
+  "_id": {
+    "$oid": "61c80ad32f404084b2eb7f13"
+  },
+  "description": "MARTHE [珊瑚海岸/CoralCoast]日晒系列泳衣SP款。莱茵生命特殊合作款。满足莱茵生命研究所的基础用途，在采用新型耐热材料的同时保证了舒适度。",
+  "id": "18",
+  "name": "日晒 SS.SP",
+  "painting": "https://prts.wiki/images/thumb/3/3d/%E7%AB%8B%E7%BB%98_%E4%BC%8A%E8%8A%99%E5%88%A9%E7%89%B9_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E4%BC%8A%E8%8A%99%E5%88%A9%E7%89%B9_skin1.png",
+  "sprite": "https://prts.wiki/images/0/0f/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E4%BC%8A%E8%8A%99%E5%88%A9%E7%89%B9_skin1.png",
+  "role": "伊芙利特"
+},{
+  "_id": {
+    "$oid": "61c80be12f404084b2eb7f14"
+  },
+  "description": "MARTHE [珊瑚海岸/CoralCoast]夏卉系列泳衣361款。参考少女的身材和体质，采用天然材质制成。追求今夏最领先的设计潮流。",
+  "id": "19",
+  "name": "夏卉 FA361",
+  "painting": "https://prts.wiki/images/thumb/1/1b/%E7%AB%8B%E7%BB%98_%E7%A9%BA_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E7%A9%BA_skin1.png",
+  "sprite": "https://prts.wiki/images/5/51/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E7%A9%BA_skin1.png",
+  "role": "空"
+},{
+  "_id": {
+    "$oid": "61c80be32f404084b2eb7f15"
+  },
+  "description": "MARTHE [珊瑚海岸/CoralCoast]夏卉系列泳衣011款。参考少女的身材和体质，采用天然材质制成。追求今夏最领先的设计潮流。",
+  "id": "20",
+  "name": "夏卉 FA011",
+  "painting": "https://prts.wiki/images/thumb/f/fd/%E7%AB%8B%E7%BB%98_%E5%8F%A4%E7%B1%B3_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%8F%A4%E7%B1%B3_skin1.png",
+  "sprite": "https://prts.wiki/images/2/22/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%8F%A4%E7%B1%B3_skin1.png",
+  "role": "古米"
+},{
+  "_id": {
+    "$oid": "61c80be52f404084b2eb7f16"
+  },
+  "description": "来自维多利亚威塞克斯中学。由维多利亚传统设计师个性化定制，威塞克斯学生装。采用百年传承手艺，做工精良，轻便舒适。",
+  "id": "21",
+  "name": "威塞克斯的信件",
+  "painting": "https://prts.wiki/images/thumb/f/f9/%E7%AB%8B%E7%BB%98_%E7%8E%AB%E5%85%B0%E8%8E%8E_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E7%8E%AB%E5%85%B0%E8%8E%8E_skin1.png",
+  "sprite": "https://prts.wiki/images/3/37/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E7%8E%AB%E5%85%B0%E8%8E%8E_skin1.png",
+  "role": "玫兰莎"
+},{
+  "_id": {
+    "$oid": "61c80be72f404084b2eb7f17"
+  },
+  "description": "开拓者系列/石墨。雷神工业出品，以常规战斗服设计为蓝本，采用了全新材料以及更为密封式的方案，强化了对严苛环境的适应性。",
+  "id": "22",
+  "name": "石墨",
+  "painting": "https://prts.wiki/images/thumb/a/ad/%E7%AB%8B%E7%BB%98_%E9%99%A8%E6%98%9F_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E9%99%A8%E6%98%9F_skin1.png",
+  "sprite": "https://prts.wiki/images/c/c8/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E9%99%A8%E6%98%9F_skin1.png",
+  "role": "陨星"
+},{
+  "_id": {
+    "$oid": "61c854058169cfef614679cc"
+  },
+  "description": "开拓者系列/漆匠。雷神工业出品，全覆式，采用特制面料，对粉尘等恶劣环境拥有极高抗性，面向需要出入危险区域的研究人员。",
+  "id": "23",
+  "name": "漆匠",
+  "painting": "https://prts.wiki/images/thumb/2/22/%E7%AB%8B%E7%BB%98_%E8%B5%AB%E9%BB%98_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E8%B5%AB%E9%BB%98_skin1.png",
+  "sprite": "https://prts.wiki/images/8/89/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E8%B5%AB%E9%BB%98_skin1.png",
+  "role": "赫默"
+},{
+  "_id": {
+    "$oid": "61c854078169cfef614679cd"
+  },
+  "description": "开拓者系列/铁块。雷神工业出品，为极端严苛环境设计，先端技术与稀有材料的完美结合。以牺牲便捷性为代价，拥有极高的防护能力。",
+  "id": "24",
+  "name": "铁块",
+  "painting": "https://prts.wiki/images/thumb/c/c2/%E7%AB%8B%E7%BB%98_%E6%9D%B0%E8%A5%BF%E5%8D%A1_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E6%9D%B0%E8%A5%BF%E5%8D%A1_skin1.png",
+  "sprite": "https://prts.wiki/images/2/22/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E6%9D%B0%E8%A5%BF%E5%8D%A1_skin1.png",
+  "role": "杰西卡"
+},{
+  "_id": {
+    "$oid": "61c854098169cfef614679ce"
+  },
+  "description": "为夜莺量身定做的狂欢服饰/挽歌。是谁在歌唱？这种语言从何而来？我看到的是谁的梦，又是谁的死？",
+  "id": "25",
+  "name": "挽歌",
+  "painting": "https://prts.wiki/images/thumb/d/d5/%E7%AB%8B%E7%BB%98_%E5%A4%9C%E8%8E%BA_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%A4%9C%E8%8E%BA_skin1.png",
+  "sprite": "https://prts.wiki/images/7/7a/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%A4%9C%E8%8E%BA_skin1.png",
+  "role": "夜莺"
+},{
+  "_id": {
+    "$oid": "61c8540a8169cfef614679cf"
+  },
+  "description": "华法琳定制的狂欢服饰/盛宴。在节日元素的基础上，添加了萨卡兹的服装风格元素。由设计者本人亲手加工，制作了大量额外饰品。",
+  "id": "26",
+  "name": "盛宴",
+  "painting": "https://prts.wiki/images/thumb/2/24/%E7%AB%8B%E7%BB%98_%E5%8D%8E%E6%B3%95%E7%90%B3_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%8D%8E%E6%B3%95%E7%90%B3_skin1.png",
+  "sprite": "https://prts.wiki/images/6/6a/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%8D%8E%E6%B3%95%E7%90%B3_skin1.png",
+  "role": "华法琳"
+},{
+  "_id": {
+    "$oid": "61c855ac8169cfef614679d0"
+  },
+  "description": "克洛丝为自己设计的狂欢服饰/魔术师。采用了较为时尚的设计，并且在服装各处和装饰品中都设计了一些小机关，方便她进行魔术表演。",
+  "id": "27",
+  "name": "魔术师",
+  "painting": "https://prts.wiki/images/thumb/a/ab/%E7%AB%8B%E7%BB%98_%E5%85%8B%E6%B4%9B%E4%B8%9D_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%85%8B%E6%B4%9B%E4%B8%9D_skin1.png",
+  "sprite": "https://prts.wiki/images/e/e1/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%85%8B%E6%B4%9B%E4%B8%9D_skin1.png",
+  "role": "克洛丝"
+},{
+  "_id": {
+    "$oid": "61c855af8169cfef614679d1"
+  },
+  "description": "罗德岛送给暗索的狂欢礼物/小鬼当家。参考年轻女性体型设计，考虑到本人的日常行动，采用轻薄且透气性好的布料，简约而不失美感。",
+  "id": "28",
+  "name": "小鬼当家",
+  "painting": "https://prts.wiki/images/thumb/8/83/%E7%AB%8B%E7%BB%98_%E6%9A%97%E7%B4%A2_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E6%9A%97%E7%B4%A2_skin1.png",
+  "sprite": "https://prts.wiki/images/4/4d/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E6%9A%97%E7%B4%A2_skin1.png",
+  "role": "暗索"
+},{
+  "_id": {
+    "$oid": "61c855b18169cfef614679d2"
+  },
+  "description": "由能天使本人设计的KFC合作系列服装/城市骑手。实际上只是参考了自己喜欢的服装风格，并没有考虑很多。",
+  "id": "29",
+  "name": "城市骑手",
+  "painting": "https://prts.wiki/images/thumb/1/14/%E7%AB%8B%E7%BB%98_%E8%83%BD%E5%A4%A9%E4%BD%BF_skin2.png/400px-%E7%AB%8B%E7%BB%98_%E8%83%BD%E5%A4%A9%E4%BD%BF_skin2.png",
+  "sprite": "https://prts.wiki/images/8/8f/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E8%83%BD%E5%A4%A9%E4%BD%BF_skin2.png",
+  "role": "能天使"
+},{
+  "_id": {
+    "$oid": "61c855b38169cfef614679d3"
+  },
+  "description": "由赫默参与设计的KFC合作系列服装/儿童派对。使用莱茵生命特殊材料制成，毫无必要地拥有着相当高的防护性",
+  "id": "30",
+  "name": "儿童派对",
+  "painting": "https://prts.wiki/images/thumb/0/06/%E7%AB%8B%E7%BB%98_%E4%BC%8A%E8%8A%99%E5%88%A9%E7%89%B9_skin2.png/400px-%E7%AB%8B%E7%BB%98_%E4%BC%8A%E8%8A%99%E5%88%A9%E7%89%B9_skin2.png",
+  "sprite": "https://prts.wiki/images/8/83/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E4%BC%8A%E8%8A%99%E5%88%A9%E7%89%B9_skin2.png",
+  "role": "伊芙利特"
+},{
+  "_id": {
+    "$oid": "61c855b48169cfef614679d4"
+  },
+  "description": "由可颂本人设计的KFC合作系列服装/清晨七点。事实上采用了配合能天使的设计，因为一次做两套比较省钱。",
+  "id": "31",
+  "name": "清晨七点",
+  "painting": "https://prts.wiki/images/thumb/0/02/%E7%AB%8B%E7%BB%98_%E5%8F%AF%E9%A2%82_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%8F%AF%E9%A2%82_skin1.png",
+  "sprite": "https://prts.wiki/images/c/c4/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%8F%AF%E9%A2%82_skin1.png",
+  "role": "可颂"
+},{
+  "_id": {
+    "$oid": "61c855b68169cfef614679d5"
+  },
+  "description": "生命之地™\n[识荒者/Rewilder]系列经典款/遗石。抗风，防水，耐磨。",
+  "id": "32",
+  "name": "遗石",
+  "painting": "https://prts.wiki/images/thumb/c/c1/%E7%AB%8B%E7%BB%98_%E6%8E%A8%E8%BF%9B%E4%B9%8B%E7%8E%8B_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E6%8E%A8%E8%BF%9B%E4%B9%8B%E7%8E%8B_skin1.png",
+  "sprite": "https://prts.wiki/images/3/38/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E6%8E%A8%E8%BF%9B%E4%B9%8B%E7%8E%8B_skin1.png",
+  "role": "推进之王"
+},{
+  "_id": {
+    "$oid": "61c855b88169cfef614679d6"
+  },
+  "description": "生命之地™\n[识荒者/Rewilder]系列经典款/枯柏。耐磨，防尘，轻便。",
+  "id": "33",
+  "name": "枯柏",
+  "painting": "https://prts.wiki/images/thumb/4/4c/%E7%AB%8B%E7%BB%98_%E5%AE%88%E6%9E%97%E4%BA%BA_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%AE%88%E6%9E%97%E4%BA%BA_skin1.png",
+  "sprite": "https://prts.wiki/images/9/95/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%AE%88%E6%9E%97%E4%BA%BA_skin1.png",
+  "role": "守林人"
+},{
+  "_id": {
+    "$oid": "61c8572c8169cfef614679d7"
+  },
+  "description": "生命之地™\n[识荒者/Rewilder]系列经典款/燃灰。防风，防尘，耐温，耐磨。",
+  "id": "34",
+  "name": "燃灰",
+  "painting": "https://prts.wiki/images/thumb/a/a6/%E7%AB%8B%E7%BB%98_%E6%9D%B0%E8%A5%BF%E5%8D%A1_skin2.png/400px-%E7%AB%8B%E7%BB%98_%E6%9D%B0%E8%A5%BF%E5%8D%A1_skin2.png",
+  "sprite": "https://prts.wiki/images/9/90/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E6%9D%B0%E8%A5%BF%E5%8D%A1_skin2.png",
+  "role": "杰西卡"
+},{
+  "_id": {
+    "$oid": "61c8572e8169cfef614679d8"
+  },
+  "description": "萨维尔衣匠为银灰量身定做的服饰/约克的寒风。采用昂贵的面料，在保证舒适感的同时尽可能抗寒耐磨。配以特制的围巾，尽显订衣者的品味。",
+  "id": "35",
+  "name": "约克的寒风",
+  "painting": "https://prts.wiki/images/thumb/2/2d/%E7%AB%8B%E7%BB%98_%E9%93%B6%E7%81%B0_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E9%93%B6%E7%81%B0_skin1.png",
+  "sprite": "https://prts.wiki/images/6/63/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E9%93%B6%E7%81%B0_skin1.png",
+  "role": "银灰"
+},{
+  "_id": {
+    "$oid": "61c857308169cfef614679d9"
+  },
+  "description": "萨维尔衣匠为初雪量身定做的服饰/开斯特之霜。全套手工打造，完美贴合体型，增加了部分细节以最大程度贴合订衣者的生活习惯。",
+  "id": "36",
+  "name": "开斯特之霜",
+  "painting": "https://prts.wiki/images/thumb/f/f9/%E7%AB%8B%E7%BB%98_%E5%88%9D%E9%9B%AA_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%88%9D%E9%9B%AA_skin1.png",
+  "sprite": "https://prts.wiki/images/b/b5/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%88%9D%E9%9B%AA_skin1.png",
+  "role": "初雪"
+},{
+  "_id": {
+    "$oid": "61c857318169cfef614679da"
+  },
+  "description": "卡缇的冬日穿搭/快乐卫士。轻便舒适，充满冬季元素，但完全不防寒。卡缇是有点怕冷，不过在满满一袋礼物和心爱的雪橇面前，温度高低已经不重要了。",
+  "id": "37",
+  "name": "快乐卫士",
+  "painting": "https://prts.wiki/images/thumb/b/ba/%E7%AB%8B%E7%BB%98_%E5%8D%A1%E7%BC%87_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%8D%A1%E7%BC%87_skin1.png",
+  "sprite": "https://prts.wiki/images/8/8e/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%8D%A1%E7%BC%87_skin1.png",
+  "role": "卡缇"
+},{
+  "_id": {
+    "$oid": "61c8579e8169cfef614679db"
+  },
+  "description": "MARTHE运动系列，食铁兽票房巅峰作上映3周年纪念之龙门限定款。轻巧透气，贴合身型，但了解她的人都知道食铁兽从来没有好好穿过这套衣服。",
+  "id": "38",
+  "name": "片场一角",
+  "painting": "https://prts.wiki/images/thumb/2/20/%E7%AB%8B%E7%BB%98_%E9%A3%9F%E9%93%81%E5%85%BD_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E9%A3%9F%E9%93%81%E5%85%BD_skin1.png",
+  "sprite": "https://prts.wiki/images/b/b4/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E9%A3%9F%E9%93%81%E5%85%BD_skin1.png",
+  "role": "食铁兽"
+},{
+  "_id": {
+    "$oid": "61c8579f8169cfef614679dc"
+  },
+  "description": "0011™新款/春竜。龙门匠制，甄选舒适面料，一针一线手工制作，结合科技于传统工艺。更有配套装备定制服务，在实用性和艺术性上追求到极致",
+  "id": "39",
+  "name": "春竜",
+  "painting": "https://prts.wiki/images/thumb/3/3d/%E7%AB%8B%E7%BB%98_%E9%9B%B7%E8%9B%87_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E9%9B%B7%E8%9B%87_skin1.png",
+  "sprite": "https://prts.wiki/images/2/2c/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E9%9B%B7%E8%9B%87_skin1.png",
+  "role": "雷蛇"
+},{
+  "_id": {
+    "$oid": "61c857a18169cfef614679dd"
+  },
+  "description": "0011™新款/君子兰。龙门手工匠制，采用特殊科技面料，轻薄透气而坚韧耐磨。保暖和防水性能极佳，美观和实用度俱佳。限定制作。",
+  "id": "40",
+  "name": "君子兰",
+  "painting": "https://prts.wiki/images/thumb/4/44/%E7%AB%8B%E7%BB%98_%E6%9D%B0%E8%A5%BF%E5%8D%A1_skin3.png/400px-%E7%AB%8B%E7%BB%98_%E6%9D%B0%E8%A5%BF%E5%8D%A1_skin3.png",
+  "sprite": "https://prts.wiki/images/1/10/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E6%9D%B0%E8%A5%BF%E5%8D%A1_skin3.png",
+  "role": "杰西卡"
+},{
+  "_id": {
+    "$oid": "61c858d18169cfef614679de"
+  },
+  "description": "EPOQUE系列新款/未知的旅行。春季潮流款，合身且舒适，另有数种配饰可供选择，自由搭配，每个人都能装扮出不同的风格。",
+  "id": "41",
+  "name": "未知的旅行",
+  "painting": "https://prts.wiki/images/thumb/7/71/%E7%AB%8B%E7%BB%98_%E8%BF%9C%E5%B1%B1_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E8%BF%9C%E5%B1%B1_skin1.png",
+  "sprite": "https://prts.wiki/images/f/f2/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E8%BF%9C%E5%B1%B1_skin1.png",
+  "role": "远山"
+},{
+  "_id": {
+    "$oid": "61c858d38169cfef614679df"
+  },
+  "description": "EPOQUE系列新款/幽静。常规款服饰，以黑紫为主色，在构建沉稳氛围的同时显出些许典雅。职场女性间好评如潮的一款服饰，曾是白面鸮最爱的出行搭配。",
+  "id": "42",
+  "name": "幽静",
+  "painting": "https://prts.wiki/images/thumb/3/31/%E7%AB%8B%E7%BB%98_%E7%99%BD%E9%9D%A2%E9%B8%AE_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E7%99%BD%E9%9D%A2%E9%B8%AE_skin1.png",
+  "sprite": "https://prts.wiki/images/e/e5/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E7%99%BD%E9%9D%A2%E9%B8%AE_skin1.png",
+  "role": "白面鸮"
+},{
+  "_id": {
+    "$oid": "61c858d58169cfef614679e0"
+  },
+  "description": "WWF合作服装/高原访客。以自然为设计理念，采用人工合成材料制衣，能够适应各种严酷挑战，保护有经验的巡护员走到泰拉每个角落。",
+  "id": "43",
+  "name": "高原访客",
+  "painting": "https://prts.wiki/images/thumb/a/a0/%E7%AB%8B%E7%BB%98_%E5%B4%96%E5%BF%83_skin2.png/400px-%E7%AB%8B%E7%BB%98_%E5%B4%96%E5%BF%83_skin2.png",
+  "sprite": "https://prts.wiki/images/f/f3/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%B4%96%E5%BF%83_skin2.png",
+  "role": "崖心"
+},{
+  "_id": {
+    "$oid": "61c859518169cfef614679e1"
+  },
+  "description": "EPOQUE系列首发款/战医。以高规格阿达克利斯专用战甲为蓝本，在必要的部位加装了刀片，极具侵略性，是嘉维尔理想中的“战地黑大褂”。",
+  "id": "44",
+  "name": "战医",
+  "painting": "https://prts.wiki/images/thumb/9/94/%E7%AB%8B%E7%BB%98_%E5%98%89%E7%BB%B4%E5%B0%94_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%98%89%E7%BB%B4%E5%B0%94_skin1.png",
+  "sprite": "https://prts.wiki/images/c/cc/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%98%89%E7%BB%B4%E5%B0%94_skin1.png",
+  "role": "嘉维尔"
+},{
+  "_id": {
+    "$oid": "61c859538169cfef614679e2"
+  },
+  "description": "0011子品牌，飙系列新款/狩标浪人。多位设计师联手呈现，挑战街头风格。特别改装了一面近卫局制式盾，配以东国传统元素，压迫感十足。",
+  "id": "45",
+  "name": "狩标浪人",
+  "painting": "https://prts.wiki/images/thumb/7/71/%E7%AB%8B%E7%BB%98_%E6%98%9F%E7%86%8A_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E6%98%9F%E7%86%8A_skin1.png",
+  "sprite": "https://prts.wiki/images/3/36/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E6%98%9F%E7%86%8A_skin1.png",
+  "role": "星熊"
+},{
+  "_id": {
+    "$oid": "61c859548169cfef614679e3"
+  },
+  "description": "MARTHE系列新款/整装待发。以乌萨斯传统学校制服为底，搭上本季最受欢迎的大衣款式，加以微调，使其更符合青年的穿着习惯。乌萨斯地区热销中。",
+  "id": "46",
+  "name": "整装待发",
+  "painting": "https://prts.wiki/images/thumb/0/0a/%E7%AB%8B%E7%BB%98_%E5%87%9B%E5%86%AC_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%87%9B%E5%86%AC_skin1.png",
+  "sprite": "https://prts.wiki/images/b/bd/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%87%9B%E5%86%AC_skin1.png",
+  "role": "凛冬"
+},{
+  "_id": {
+    "$oid": "61c859568169cfef614679e4"
+  },
+  "description": "忒斯特收藏系列/见习联结者。阿米娅在罗德岛餐厅打工时的穿着。蓬松外套很防寒，也能装进一只企鹅大小的东西",
+  "id": "47",
+  "name": "见习联结者",
+  "painting": "https://prts.wiki/images/thumb/3/3f/%E7%AB%8B%E7%BB%98_%E9%98%BF%E7%B1%B3%E5%A8%85_skin2.png/400px-%E7%AB%8B%E7%BB%98_%E9%98%BF%E7%B1%B3%E5%A8%85_skin2.png",
+  "sprite": "https://prts.wiki/images/b/ba/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E9%98%BF%E7%B1%B3%E5%A8%85_skin2.png",
+  "role": "阿米娅"
+},{
+  "_id": {
+    "$oid": "61c859588169cfef614679e5"
+  },
+  "description": "斗争血脉系列/坚城。塞雷娅在总辖构件科与总辖对峙时的装束。周遭事物因法术相碰湮灭的余波陷入混乱，唯独她的意志似大地般永不动摇。",
+  "id": "48",
+  "name": "坚城",
+  "painting": "https://prts.wiki/images/thumb/0/0d/%E7%AB%8B%E7%BB%98_%E5%A1%9E%E9%9B%B7%E5%A8%85_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%A1%9E%E9%9B%B7%E5%A8%85_skin1.png",
+  "sprite": "https://prts.wiki/images/7/79/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%A1%9E%E9%9B%B7%E5%A8%85_skin1.png",
+  "role": "塞雷娅"
+},{
+  "_id": {
+    "$oid": "61c8595a8169cfef614679e6"
+  },
+  "description": "斗争血脉系列/质素访客。干员安洁莉娜驻扎在第二最终防卫阵线时穿着的装束。实相物质在她的施术单元与手指间缓慢流淌。",
+  "id": "49",
+  "name": "质素访客",
+  "painting": "https://prts.wiki/images/thumb/f/f8/%E7%AB%8B%E7%BB%98_%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C_skin1.png",
+  "sprite": "https://prts.wiki/images/5/54/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%AE%89%E6%B4%81%E8%8E%89%E5%A8%9C_skin1.png",
+  "role": "安洁莉娜"
+},{
+  "_id": {
+    "$oid": "61c85aba8169cfef614679e7"
+  },
+  "description": "斗争血脉系列/典雅噩兆。拉普兰德在拉特兰教宗骑士显圣纪念堂参加葬礼时的装束。讨取债务，支付代价。",
+  "id": "50",
+  "name": "典雅噩兆",
+  "painting": "https://prts.wiki/images/thumb/1/11/%E7%AB%8B%E7%BB%98_%E6%8B%89%E6%99%AE%E5%85%B0%E5%BE%B7_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E6%8B%89%E6%99%AE%E5%85%B0%E5%BE%B7_skin1.png",
+  "sprite": "https://prts.wiki/images/c/c2/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E6%8B%89%E6%99%AE%E5%85%B0%E5%BE%B7_skin1.png",
+  "role": "拉普兰德"
+},{
+  "_id": {
+    "$oid": "61c85abc8169cfef614679e8"
+  },
+  "description": "斗争血脉系列/无畏。精英干员米格鲁在玻利瓦尔大行军负责殿后时穿着的装束。这是她最后的考验",
+  "id": "51",
+  "name": "无畏",
+  "painting": "https://prts.wiki/images/thumb/d/d3/%E7%AB%8B%E7%BB%98_%E7%B1%B3%E6%A0%BC%E9%B2%81_skin1.png/400px-%E7%AB%8B%E7%BB%98_%E7%B1%B3%E6%A0%BC%E9%B2%81_skin1.png",
+  "sprite": "https://prts.wiki/images/f/f1/%E5%8D%8A%E8%BA%AB%E5%83%8F_%E7%B1%B3%E6%A0%BC%E9%B2%81_skin1.png",
+  "role": "米格鲁"
+}]
