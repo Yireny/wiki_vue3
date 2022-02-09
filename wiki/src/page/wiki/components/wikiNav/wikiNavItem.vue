@@ -1,11 +1,10 @@
 <template>
-  <main class="wiki">
-    <Nav/>
-  </main>
+  <div class="wiki-nav-item">
+    
+  </div>
 </template>
 
 <script setup lang='ts'>
-import Nav from './components/wikiNav/wikiNav.vue'
 </script>
 
 <style lang="scss" scoped>

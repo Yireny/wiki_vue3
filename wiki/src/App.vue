@@ -1,5 +1,5 @@
 <template>
-  <header>
+  <header class="app__header">
     <Navbar/>
   </header>
   <!--  -->
@@ -30,9 +30,15 @@ import Navbar from './components/navbar.vue'
   background-attachment: fixed;
 }
 
+.app__header{
+  position: sticky;
+  top: 0;
+}
+
 main{
   max-width: 1000px;
   margin: 0 auto;
+  padding-top: 10px;
 }
 
 .fade-enter-active,

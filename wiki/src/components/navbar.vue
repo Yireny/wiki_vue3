@@ -1,26 +1,31 @@
 <template>
-<nav class="navbar">
-  <span class="logo">
-    <img class="logo__img" src="../assets/images/logo.png" alt="">
-    <span class="logo__title">Arknights·明日方舟</span>
-  </span>
-  <ul class="nav">
-    <li
-    class="nav__item"
-    :class="{'nav__item--active':isActive === item.id}"
-    v-for="item in nav"
-    :key="item.id"
-    @click="navClick(item.id,item.path)"
-    >
-    {{item.name}}
-    </li>
-  </ul>
-</nav>
+  <nav class="navbar">
+    <span class="logo">
+      <img class="logo__img" src="../assets/images/logo.png" alt="">
+      <span class="logo__title">Arknights·明日方舟</span>
+    </span>
+    <ul class="nav">
+      <li
+      class="nav__item"
+      :class="{'nav__item--active':isActive === item.id}"
+      v-for="item in nav"
+      :key="item.id"
+      @click="navClick(item.id,item.path)"
+      >
+      {{item.name}}
+      </li>
+    </ul>
+    <div class="nav-avatar">
+      <Avatar/>
+    </div>
+  </nav>
 </template>
 
 <script setup lang='ts'>
 import { ref,reactive } from 'vue'
 import { useRouter } from 'vue-router'
+
+import Avatar from './avatar.vue'
 
 interface Nav{
   id:number,
@@ -45,12 +50,10 @@ function navClick(index:number,path:string):void{
 
 <style lang="scss" scoped>
 .navbar{
-  position: sticky;
-  top: 0;
-  width: 1000px;
+  width: 1200px;
   height: 60px;
   line-height: 60px;
-  padding: 0 calc((100% - 1000px)/2);
+  padding: 0 calc((100% - 1200px)/2);
   background-color: #00c3ff;
   color: #fff;
   user-select: none;
@@ -98,6 +101,12 @@ function navClick(index:number,path:string):void{
         background-color: rgba(255, 255, 255, .16);
       }
     }
+  }
+  .nav-avatar{
+    float: right;
+    width: 36px;
+    height: 36px;
+    padding: 12px;
   }
 }
 </style>

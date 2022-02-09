@@ -1,16 +1,21 @@
 <template>
   <main class="home">
     <div class="home__main">
-      <div>轮播图</div>
-      <div>帖子</div>
+      <Swiper/>
+      <CardList/>
     </div>
     <div class="home__aside">
-      侧边栏
+      <Banner/>
+      <News/>
     </div>
   </main>
 </template>
 
 <script setup lang='ts'>
+import Swiper from './components/homeSwiper.vue'
+import CardList from './components/homeCardList.vue'
+import Banner from './components/homeBanner.vue'
+import News from './components/homeNews.vue'
 
 </script>
 
