@@ -15,7 +15,9 @@
     </article>
     <footer>
       <div class="card__data">
-        <div class="card__data-item"></div>
+        <div class="card__data-item">1</div>
+        <div class="card__data-item">2</div>
+        <div class="card__data-item">3</div>
       </div>
     </footer>
   </div>
@@ -75,6 +77,13 @@ import Avatar from './avatar.vue'
   &__preview{
     width: 100%;
     height: 120px;
+  }
+  &__data{
+    display: flex;
+    justify-content: flex-end;
+    &-item{
+      width: 75px;
+    }
   }
 }
 </style>

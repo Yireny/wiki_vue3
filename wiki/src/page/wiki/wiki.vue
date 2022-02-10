@@ -1,6 +1,7 @@
 <template>
   <main class="wiki">
     <Nav/>
+    
   </main>
 </template>
 

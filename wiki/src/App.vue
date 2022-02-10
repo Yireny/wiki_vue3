@@ -19,6 +19,9 @@ import Navbar from './components/navbar.vue'
 </script>
 
 <style>
+html{
+  overflow-y: scroll;
+}
 #app{
   position: relative;
   width: 100%;
@@ -43,7 +46,7 @@ main{
 
 .fade-enter-active,
 .fade-leave-active {
-  transition: opacity 0.5s ease;
+  transition: opacity .5s ease;
 }
 
 .fade-enter-from,

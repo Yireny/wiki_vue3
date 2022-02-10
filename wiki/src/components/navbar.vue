@@ -7,7 +7,7 @@
     <ul class="nav">
       <li
       class="nav__item"
-      :class="{'nav__item--active':isActive === item.id}"
+      :class="{'nav__item--active':(isActive === item.id)}"
       v-for="item in nav"
       :key="item.id"
       @click="navClick(item.id,item.path)"
@@ -29,17 +29,19 @@ import Avatar from './avatar.vue'
 
 interface Nav{
   id:number,
-  name:String,
-  path:String
+  name:string,
+  path:string
 }
 let nav:Nav[]
 let isActive = ref<number>(1)
 const router = useRouter()
 
-nav = reactive([{name:'首页',id:1,path:'/home'},
-                {name:'百科',id:2,path:'/wiki'},
-                {name:'攻略',id:3,path:'/strategy'},
-                {name:'社区',id:4,path:'/community'}])
+nav = reactive([
+  {name:'首页',id:1,path:'/home'},
+  {name:'百科',id:2,path:'/wiki'},
+  {name:'攻略',id:3,path:'/strategy'},
+  {name:'社区',id:4,path:'/community'}
+  ])
 
 function navClick(index:number,path:string):void{
   isActive.value = index
@@ -90,7 +92,6 @@ function navClick(index:number,path:string):void{
     padding: 0;
     &__item{
       flex: 1;
-      font-weight: bold;
       text-align: center;
       cursor: pointer;
       list-style: none;
@@ -98,6 +99,7 @@ function navClick(index:number,path:string):void{
         background-color: rgba(255, 255, 255, .16);
       }
       &--active{
+        font-weight: bold;
         background-color: rgba(255, 255, 255, .16);
       }
     }
