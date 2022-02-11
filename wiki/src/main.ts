@@ -2,11 +2,11 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import 'normalize.css'
 import router from './router/router'
-import { createPinia } from 'pinia'
+import store from './store/index'
 
 createApp(App)
 .use(router)
-.use(createPinia())
+.use(store)
 .mount('#app')
 
 
